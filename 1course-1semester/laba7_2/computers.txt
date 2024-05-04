@@ -1,0 +1,11 @@
+History of Computers
+	It is very difficult to find the exact origin of computers. 
+But according to some experts computer exists at the time of world war-II. 
+Also, at that time they were used for keeping data. 
+But, it was for only government use and not for public use. 
+Above all, in the beginning, the computer was a very large and heavy machine.
+Working of a Computer 
+	The computer runs on a three-step cycle namely input, process, and output. 
+Also, the computer follows this cycle in every process it was asked to do. 
+In simple words, the process can be explained in this way. 
+The data which we feed into the computer is input, the work CPU do is process and the result which the computer give is output.
