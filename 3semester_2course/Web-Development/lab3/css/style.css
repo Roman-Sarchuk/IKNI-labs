@@ -1,0 +1,119 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+header, main {
+    padding: 0px 10%;
+}
+
+/* ===== main ===== */
+h1 {
+    padding-top: 25px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+
+    color: #000000;
+}
+
+p, p + ul li {
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+
+    color: #000000;
+}
+p + ul {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 40px;
+}
+p:has(+ ul) {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+ul + p {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+ul li a {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    text-decoration-line: underline;
+
+    color: #0e2a30;
+}
+
+ul li a:hover {
+    color: #3C6974;
+}
+
+/* ===== footer ===== */
+footer {
+    display: flex; 
+    justify-content: space-between; 
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #f4f1f1;
+}
+
+footer div {
+    margin-left: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact {
+    font-family: 'Roboto Mono';
+    color: #000000;
+}
+
+.contact-title {
+    margin: 0px;
+    margin-bottom: 10px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 63px;
+}
+
+.contact-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+
+    text-decoration: none;
+
+    word-break: break-all;
+}
+
+.contact-item:hover {
+    color: #3f3f3f;
+}
+
+/* ===== using media queries ===== */
+@media (max-width: 620px) {
+    footer {
+        flex-direction: column; /* Вирівнюємо елементи один під одним */
+        align-items: flex-start; /* Вирівнюємо елементи по лівому краю */
+    }
+
+    footer ul {
+        margin-bottom: 30px; /* Додайте відступ між списком і контактами */
+    }
+}
