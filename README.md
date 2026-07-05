@@ -67,3 +67,35 @@ Welcome to the IKNI Labs repository! This repository contains a collection of la
 #### Mathematical-Methods-of-Operations-Research
 - Labs with Python implementations: `Lab1/lab1.py`, `Lab2/lab2.py`, `Lab3/lab3.py`, `Lab4/main.py` and additional utilities under `other/` (e.g., `transport.py`).
 
+### 5th Semester (3rd Course)
+
+#### DataProtection
+- C++ and Visual Studio labs focused on data protection and information security tasks.
+- Each lab is split into its own project with input/output text files, helper modules, and a separate `.vcxproj` setup for the assignment.
+
+#### Intelligent-Embedded-Systems-Programming
+- A semester project for an embedded pet feeder built around a Proteus project and an Arduino sketch.
+- The main implementation is stored in `semester_project/pet_feeder/`, with backup Proteus project files kept under `Project Backups/`.
+
+#### Microprocessor-Systems
+- Microcontroller-focused coursework with learner-kit projects, Proteus schematics, and supporting scripts.
+- The folder is organized by lab and RGR tasks for Arduino/AVR-style development and hardware simulation.
+
+#### MobileApplications
+- Mobile app development coursework, including the main lab sequence in `lab1-6-rgr/`.
+- Contains sample project material such as the `mock-movie-db-viewer-lab_4/` example.
+
+#### Multithreading
+- Multithreading labs implemented mainly in Java, with separate parts for each assignment.
+- Includes an additional C++ variant in `lab6_cpp/` alongside the Maven-based Java project in `lab6/`.
+
+### 6th Semester (3rd Course)
+
+#### AI
+- Python labs and self-study materials covering artificial intelligence topics.
+- Includes point generation utilities, maze-related tasks, and experiment files for model and detection workflows.
+
+#### Software-robotics
+- Arduino, ESP32, and UNO robotics exercises with sketches and compiled C++ source variants.
+- Also contains supporting notes for the ESP32 Freenova board and related hardware-oriented lab material.
+
