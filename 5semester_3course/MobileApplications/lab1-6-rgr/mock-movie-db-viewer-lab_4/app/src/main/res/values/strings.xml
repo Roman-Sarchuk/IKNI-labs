@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviesDbViewer</string>
+
+    <string name="greeting_text">Welcome to Movies DB Viewer App!</string>
+    <string name="continue_btn_text">Continue</string>
+
+    <string name="loading_dialog_message">Loading&#8230;</string>
+
+    <string name="failed_to_load_movies_err_msg">Failed to load movies.</string>
+    <string name="retry_btn_text">Retry</string>
+
+    <string name="failed_to_load_movie_full_info_err_msg">Failed to load full movie info.</string>
+</resources>
