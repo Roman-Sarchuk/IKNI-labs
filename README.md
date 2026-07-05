@@ -4,38 +4,24 @@ Welcome to the IKNI Labs repository! This repository contains a collection of la
 
 ## Course Structure
 
+
 ### 1st Semester (1st Course)
 
-#### Algorithms and Programming (AP)
-- **laba1:** Introductory C++ lab with basic syntax, console output, and the first standalone program.
-- **laba2_1 / laba2_2:** Python fundamentals covering variables, data types, conditions, and loop-based control flow.
-- **laba3_1 / laba3_2:** Functions, lists, and tuples used to build small reusable program fragments.
-- **laba4_1 / laba4_2:** Dictionaries and file handling tasks for working with structured data and text files.
-- **laba5_1 / laba5_2:** Object-oriented programming basics with classes, objects, and inheritance.
-- **laba6_1 / laba6_2:** Error handling and regular expressions for validating input and processing text.
-- **laba7_1 / laba7_2:** Introductory algorithms with a focus on basic algorithmic patterns and sorting methods.
-- **laba8_1 / laba8_2:** Data structures and algorithm analysis exercises for comparing efficiency and implementation details.
-- **NumberSystemConverter:** A small utility for converting numbers between different numeral systems.
+#### Introductory C++ Labs
+- **laba1 - laba7_2:** first-semester console exercises covering basic input/output, branching, loops, arrays, strings, functions, and working with simple data structures.
+- **laba8_1 - laba8_2:** a larger modular lab focused on file processing, searching, sorting, and maintaining a small order database.
+- **NumberSystemConverter:** standalone utility for converting numbers between numeral systems.
 
 ### 2nd Semester (1st Course)
 
-#### Object-Oriented Programming (OOP)
-- **Acquaintance:** Introductory OOP materials with basic terminology and class design exercises.
-- **lab2_task1:** Bank account model focused on class structure, fields, and methods.
-- **laba2_task2:** Extended banking example built around encapsulation, abstraction, and menu-driven interaction.
-- **laba3_task1:** Vector implementation demonstrating inheritance, operators, and object behavior.
-- **laba3_task2:** Text file handling tasks with helper classes for reading, writing, and processing content.
+#### Algorithms and Data Structures
+- **AP:** laboratory work on classic data structures and algorithms, including doubly linked lists, stacks, queues, trees, AVL trees, 2-3-4 trees, B-trees, hash tables, and sorting.
 
-#### Algorithms and Programming (AP)
-- **laba1:** Doubly linked list implementation with insert, delete, traversal, and display operations.
-- **laba2:** Stack implementation with push/pop logic and basic state inspection.
-- **laba3:** Queue implementation with enqueue/dequeue operations and list-based storage.
-- **laba4:** Binary tree lab with node insertion, traversal, and structural operations.
-- **laba5:** AVL tree implementation with balancing logic and tree rotations.
-- **laba6:** 2-4 tree implementation covering multiway node handling and rebalancing.
-- **laba7:** B-tree project with ordered insertion, splitting, and search routines.
-- **laba7-new:** Hash table implementation with bucket-based storage and lookup operations.
-- **laba9:** Sorting algorithms lab with classic comparison-based sorting methods and test routines.
+#### Object-Oriented Programming
+- **Acquaintance:** introductory class-based exercises built around a simple `Cube` model.
+- **laba2_task1 - laba2_task2:** banking examples centered on `BankAccount`, account management, and menu-driven interaction.
+- **laba3_taks1 - laba3_taks2:** vector and text-file handling labs covering reusable classes, file parsing, and result generation.
+
 
 ### 3rd Semester (2nd Course)
 
