@@ -1,0 +1,1 @@
+java -jar mock-movies-db-server-1.0.jar
