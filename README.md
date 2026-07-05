@@ -4,7 +4,7 @@ Welcome to the IKNI Labs repository! This repository contains a collection of la
 
 ## Course Structure
 
-### 1st Course, 1st Semester
+### 1st Semester (1st Course)
 
 #### Algorithms and Programming (AP)
 - **laba 1:** Introduction to c++ - Basic syntax and printing "Hello, World!"
@@ -24,7 +24,7 @@ Welcome to the IKNI Labs repository! This repository contains a collection of la
 - **laba 8_2:** Algorithm Analysis - Analyzing the efficiency of algorithms
 - **NumberSystemConverter:** Number System Converter - A tool to convert numbers between different number systems
 
-### 1st Course, 2nd Semester
+### 2nd Semester (1st Course)
 
 #### Object-Oriented Programming (OOP)
 - **Acquaintance:** Introduction to OOP concepts and terminology
