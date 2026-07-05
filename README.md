@@ -7,42 +7,35 @@ Welcome to the IKNI Labs repository! This repository contains a collection of la
 ### 1st Semester (1st Course)
 
 #### Algorithms and Programming (AP)
-- **laba 1:** Introduction to c++ - Basic syntax and printing "Hello, World!"
-- **laba 2_1:** Variables and Data Types - Manipulating variables and data types in Python
-- **laba 2_2:** Control Structures - Implementing if statements and loops
-- **laba 3_1:** Functions - Defining and using functions in Python
-- **laba 3_2:** Lists and Tuples - Working with lists and tuples in Python
-- **laba 4_1:** Dictionaries - Utilizing dictionary data structure in Python
-- **laba 4_2:** File Handling - Reading from and writing to files in Python
-- **laba 5_1:** Object-Oriented Programming Basics - Introduction to classes and objects
-- **laba 5_2:** Class Inheritance - Implementing inheritance in Python
-- **laba 6_1:** Exception Handling - Handling errors and exceptions in Python
-- **laba 6_2:** Regular Expressions - Working with regular expressions in Python
-- **laba 7_1:** Introduction to Algorithms - Implementing basic algorithms
-- **laba 7_2:** Sorting Algorithms - Implementing sorting algorithms
-- **laba 8_1:** Data Structures - Implementing various data structures
-- **laba 8_2:** Algorithm Analysis - Analyzing the efficiency of algorithms
-- **NumberSystemConverter:** Number System Converter - A tool to convert numbers between different number systems
+- **laba1:** Introductory C++ lab with basic syntax, console output, and the first standalone program.
+- **laba2_1 / laba2_2:** Python fundamentals covering variables, data types, conditions, and loop-based control flow.
+- **laba3_1 / laba3_2:** Functions, lists, and tuples used to build small reusable program fragments.
+- **laba4_1 / laba4_2:** Dictionaries and file handling tasks for working with structured data and text files.
+- **laba5_1 / laba5_2:** Object-oriented programming basics with classes, objects, and inheritance.
+- **laba6_1 / laba6_2:** Error handling and regular expressions for validating input and processing text.
+- **laba7_1 / laba7_2:** Introductory algorithms with a focus on basic algorithmic patterns and sorting methods.
+- **laba8_1 / laba8_2:** Data structures and algorithm analysis exercises for comparing efficiency and implementation details.
+- **NumberSystemConverter:** A small utility for converting numbers between different numeral systems.
 
 ### 2nd Semester (1st Course)
 
 #### Object-Oriented Programming (OOP)
-- **Acquaintance:** Introduction to OOP concepts and terminology
-- **lab2_task1:** Class Design - Designing classes for various applications
-- **laba2_task2:** Encapsulation and Abstraction - Implementing encapsulation and abstraction principles
-- **laba3_task1:** Inheritance and Polymorphism - Utilizing inheritance and polymorphism in OOP
-- **laba3_task2:** Composition and Aggregation - Implementing composition and aggregation relationships in OOP
+- **Acquaintance:** Introductory OOP materials with basic terminology and class design exercises.
+- **lab2_task1:** Bank account model focused on class structure, fields, and methods.
+- **laba2_task2:** Extended banking example built around encapsulation, abstraction, and menu-driven interaction.
+- **laba3_task1:** Vector implementation demonstrating inheritance, operators, and object behavior.
+- **laba3_task2:** Text file handling tasks with helper classes for reading, writing, and processing content.
 
 #### Algorithms and Programming (AP)
-- **laba 1:** Double Linked List - Implementation of a double linked list data structure and its operations
-- **laba 2:** Stack - Implementation of a stack data structure and its operations
-- **laba 3:** Queue - Implementation of a queue data structure and its operations
-- **laba 4:** Binary Tree - Implementation of a binary tree data structure and its operations
-- **laba 5:** AVL Tree - Implementation of an AVL tree data structure and its operations
-- **laba 6:** 2-4 Tree - Implementation of a 2-4 tree data structure and its operations
-- **laba 7:** B-Tree - Implementation of a B-tree data structure and its operations
-- **laba 7_new:** Hash Table - Implementation of a hash table data structure and its operations
-- **laba 9:** Sorting Algorithms - Implementation of various sorting algorithms such as bubble sort, insertion sort, selection sort, etc.
+- **laba1:** Doubly linked list implementation with insert, delete, traversal, and display operations.
+- **laba2:** Stack implementation with push/pop logic and basic state inspection.
+- **laba3:** Queue implementation with enqueue/dequeue operations and list-based storage.
+- **laba4:** Binary tree lab with node insertion, traversal, and structural operations.
+- **laba5:** AVL tree implementation with balancing logic and tree rotations.
+- **laba6:** 2-4 tree implementation covering multiway node handling and rebalancing.
+- **laba7:** B-tree project with ordered insertion, splitting, and search routines.
+- **laba7-new:** Hash table implementation with bucket-based storage and lookup operations.
+- **laba9:** Sorting algorithms lab with classic comparison-based sorting methods and test routines.
 
 ### 3rd Semester (2nd Course)
 
